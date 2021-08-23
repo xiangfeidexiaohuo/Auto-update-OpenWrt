@@ -24,7 +24,6 @@ sed -i 's#root::0:0:99999:7:::#root:$1$fe9OTETj$lEJwiQW4hDxi/GNj4JUlC1:18679:0:9
 
 #Add Package
 
-git clone https://github.com/wltc2005/openwrt-redsocks2.git package/custom/redsocks2
 git clone https://github.com/sirpdboy/luci-app-autotimeset.git package/custom/autotimeset
 git clone https://github.com/godros/luci-app-godproxy.git package/custom/luci-app-godproxy
 git clone https://github.com/linkease/nas-packages.git package/custom/nas-packages
